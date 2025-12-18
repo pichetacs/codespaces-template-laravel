@@ -4,7 +4,7 @@
   "service": "app",
   "workspaceFolder": "/workspaces/codespaces-template-laravel-priv",
   "remoteUser": "vscode",
-  "forwardPorts": [8000],
+  "forwardPorts": [8000, 5173],
   "postCreateCommand": ".devcontainer/post-create.sh",
   "customizations": {
     "vscode": {
